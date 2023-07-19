@@ -1,6 +1,6 @@
 # aliifa
 
-A new Flutter project.
+A completely Responsive aliifa App- Works on Android, iOS & Web! 
 
 ## Getting Started
 
